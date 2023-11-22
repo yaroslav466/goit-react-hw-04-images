@@ -14,4 +14,4 @@ export const Loader = () => {
         color="#645be1"
       />
     );
-  }
+   }
